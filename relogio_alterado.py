@@ -1,9 +1,7 @@
 ''' Relógio Digital personalizado que recebe o usuário com boas vindas e exibe o horário em formato 24 h.
    O usuário pode alternar entre modo Claro e Escuro por um controle deslizante.
-   Para a construção do relógio, tomei como base um vídeo do canal no youtube Lilizok4 ASMR, 
-   que deixarei listado no README.md. O projeto faz uso da biblioteca Tkinter para sua interface gráfica, 
-   dos módulos os para importar informações do sistema operacional (nome do usuário) 
-   e time para acessar informações de data e hora. '''
+   Para a construção do relógio, tomei como base um vídeo do canal no youtube Lilizok4 ASMR, que deixarei listado no README.md. 
+   O projeto faz uso da biblioteca Tkinter para sua interface gráfica, dos módulos OS para importar informações do sistema operacional (nome do usuário) e TIME para acessar informações de data e hora. '''
 
 
 import tkinter as tk
